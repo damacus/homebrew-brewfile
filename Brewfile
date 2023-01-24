@@ -1,6 +1,6 @@
 tap "homebrew/cask-fonts"
 
-
+brew "whalebrew"
 brew "asdf"
 brew "bat"
 brew "autoconf"
