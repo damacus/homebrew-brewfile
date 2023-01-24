@@ -55,6 +55,7 @@ brew "libtermkey"
 brew "gcc"
 brew "wget"
 brew "gd"
+brew "readdle-spark"
 
 cask "google-chrome"
 cask "firefox"
