@@ -91,4 +91,4 @@ brew "grc"
 brew "zoxide"
 
 # Magnet from the App Store
-mas 441258766
+mas "Magnet", id: 441258766
