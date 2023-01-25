@@ -89,3 +89,6 @@ brew "fd"
 brew "git-delta"
 brew "grc"
 brew "zoxide"
+
+# Magnet from the App Store
+mas "441258766" 
