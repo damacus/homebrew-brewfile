@@ -55,6 +55,7 @@ brew "libtermkey"
 brew "gcc"
 brew "wget"
 brew "gd"
+brew "tmux"
 
 cask "readdle-spark"
 cask "google-chrome"
