@@ -90,6 +90,6 @@ brew "fd"
 brew "git-delta"
 brew "grc"
 brew "zoxide"
+cask "font-cascadia-mono"
 
-# Magnet from the App Store
 mas "Magnet", id: 441258766
