@@ -91,5 +91,6 @@ brew "git-delta"
 brew "grc"
 brew "zoxide"
 cask "font-cascadia-mono"
+nrew 'jq'
 
 mas "Magnet", id: 441258766
