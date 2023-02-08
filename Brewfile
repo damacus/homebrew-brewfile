@@ -94,6 +94,7 @@ cask "font-cascadia-mono"
 brew "jq"
 brew "docker"
 brew "docker-buildx"
+brew "docker-credential-helper"
 
 mas "Magnet", id: 441258766
 mas "HP SMart for Desktop", id: 1474276998
