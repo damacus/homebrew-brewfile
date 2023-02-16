@@ -95,6 +95,7 @@ brew "jq"
 brew "docker"
 brew "docker-buildx"
 brew "docker-credential-helper"
+brew "pre-commit"
 
 mas "Magnet", id: 441258766
 mas "HP SMart for Desktop", id: 1474276998
