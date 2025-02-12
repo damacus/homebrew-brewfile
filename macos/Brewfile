@@ -3,9 +3,9 @@
 brew 'asdf'
 brew 'autoconf'
 brew 'automake'
+brew 'aws-vault'
 brew 'bash'
 brew 'bat'
-brew 'aws-vault'
 brew 'curl'
 brew 'direnv'
 brew 'docker-buildx'
@@ -70,6 +70,7 @@ cask 'discord', greedy: true
 cask 'firefox', greedy: true
 cask 'font-cascadia-mono'
 cask 'font-hack-nerd-font'
+cask 'ghostty'
 cask 'gitkraken'
 cask 'google-chrome'
 cask 'google-drive'
@@ -86,5 +87,4 @@ cask 'telegram', greedy: true
 cask 'visual-studio-code', greedy: true
 cask 'whatsapp', greedy: true
 cask 'zoom', greedy: true
-
 mas 'HP SMart for Desktop', id: 1_474_276_998
